@@ -47,9 +47,9 @@ Latest commit cabc3b9 13 minutes ago
 	<img class="jaune" src="citron.jpg" alt="citron jaune" height="250" width="250">
 	<h3>Ils sont très populaires et possèdent donc de multiples variétés rien que pour eux ! <a href="citrons jaunes.html">Cliquez ici pour vous diriger vers un site web représentant en détail chaque type de citron jaune.<br><br></a></h3>
 	<h2>Pour en revenir à nos précieux citrons, nous continuons cette présentation par le <u>Citron meyer</u> et le <u>Citron caviar</u> !</h2>
-	<img class="meyer" src="site citrons/meyer.jpg" height="600" width="600">
+	<img class="meyer" src="meyer.jpg" height="600" width="600">
 <h2 class="desc1">Le citron meyer a une peau jaune et orangée<br><br>résultant d'un croisement entre une orange<br><br>et un citron. Originaire de Chine, ce citron<br><br> porte le de Franck Meyer, la personne qui<br><br>l'a introduite aux Etats Unis en 1908 !</h2>
-	<img class="caviar" src="../site citrons/caviar.jpg">
+	<img class="caviar" src="caviar.jpg">
 	<h2 class="desc2">Le citron caviar est long et assez mince. <br><br>Sa peau vert foncé a la particularité de<br><br> contenir des billes croquantes de la même <br><br>manière que le caviar ! Ce citron est plutôt <br><br>rare et pousse dans les forêts australiennes.</h2>
 	<h2 class="title2">Suite à cela, nous avons les <u>Main de Bouddha</u> et <u>Combava</u> !</h2>
 	<img class="bouddha" src="main-de-bouddha.jpg" height="500" width="500">
