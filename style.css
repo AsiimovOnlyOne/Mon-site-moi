@@ -1,0 +1,45 @@
+h1{
+	color:green;
+	text-align: center;
+}
+h3{
+  text-indent: 20px;
+}
+h2{
+  text-indent: 10px;
+}
+.titre1{
+	right: 20px;
+}
+.desc1{
+	transform: translate(22%, -230%);
+}
+.jaune{
+	margin: 0;
+	transform: translate(0%, 0%);
+	margin-left: auto;
+}
+.caviar{
+	transform: translate(250%, -183%);
+}
+.desc2{
+	transform: translate(63%, -534%);
+}
+.title2{
+	transform: translate(0%, -3600%);
+}
+.bouddha{
+	transform: translate(105%, -180%);
+}
+.desc3{
+	transform: translate(2%, -750%);
+}
+.combava{
+	transform: translate(320%, -340%);
+}
+.desc4{
+	transform: translate(45%, -885%);
+}
+.title3{
+	transform: translate(0%, -6500%);
+}
